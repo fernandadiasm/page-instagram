@@ -4,15 +4,15 @@
 
 
 
-## Project's goal
-instagram home page recreation
+## Objetivo do projeto
+Reconstrução da página de login do Instagram.
 
 
-## 👩🏻‍💻 Techs
+## 👩🏻‍💻 Tecnologias
 * HTML
 * CSS
 
-## 👤 Author
+## 👤 Autora
 **Fernanda Dias**
 
 * Github: [@fernandadiasm](https://github.com/fernandadiasm)
